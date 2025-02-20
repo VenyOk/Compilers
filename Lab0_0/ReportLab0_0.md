@@ -24,7 +24,8 @@
 
 Грамматика:
 
-```<Program>  ::= <Articles> <Body> .
+```
+<Program>  ::= <Articles> <Body> .
 <Articles> ::= <Article> <Articles> | .
 <Article>  ::= define word <Body> end .
 <Body>     ::= if <Body> <ElsePart> endif <Body>
