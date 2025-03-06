@@ -1,0 +1,7 @@
+0b1010 0t75 0x1A 211
+variableName
+(example or anotherExample AND example)
+42 123
+And or 
+
+@ff   
