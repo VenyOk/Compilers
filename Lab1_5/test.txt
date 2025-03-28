@@ -1,9 +1,8 @@
-111
-112
-00
-"regular \n1\""
-&
-@"test1
-test2
-test3"
-ident "
+11
+01011
+"test text \n lab"
+ident
+ident2
+@"test text2 ""
+"
+ident3
